@@ -1,5 +1,6 @@
 
 Quests
+- install ['all quest objectives on map' mod](https://www.nexusmods.com/witcher3/mods/943)
 - delusion (sign skill tree) opens conversation options
 - [list of quests](https://witcher.gamepedia.com/Category:The_Witcher_3_quests)
 
