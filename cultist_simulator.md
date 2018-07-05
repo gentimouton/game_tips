@@ -9,25 +9,24 @@ dream
 - affliction + coin = ?
 - dread + contentment = ?
 - reason = restlessness
-- passion (+ lore) = ?
+- passion + way = pyramid access
+- fascination + dread = ?
 
 study 
 - health = health + vitality
 - vitality + vitality = health (works only once)
-- passion = glimmering
+- passion (+ restlessness) = glimmering
 - reason = erudition
 
 work 
 - passion + restlessness = glimmering + passion (exhausted)
 - health = used health + vitality + funds
 
-trembling in the air
-- fascination + dread = ?
-
 restlessness becomes dread
 
 talk 
 - hunter = dread + notoriety
+- lore + reason = acquaintance
 
 hunter searching for clues
 - notoriety = tentative evidence
