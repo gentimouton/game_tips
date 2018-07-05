@@ -3,22 +3,28 @@
 
 # recipes
 
-- dream coin = contentment 
-- dream affliction + vitality = ?
-- dream affliction + coin = ?
-- dream dread + contentment = ?
-- dream reason = restlessness
+dream
+- coin = contentment 
+- affliction + vitality = ?
+- affliction + coin = ?
+- dread + contentment = ?
+- reason = restlessness
 
-- study health = health + vitality
+study 
+- health = health + vitality
 
-- work passion + dread = ?
+work 
+- passion + dread = ?
 
-- trembling in the air: fascination + dread = ?
+trembling in the air
+- fascination + dread = ?
 
-- restlessness = dread
+restlessness becomes dread
 
-- talk to hunter = dread + notoriety
+talk 
+- hunter = dread + notoriety
 
-- investigation: notoriety = tentative evidence
-- investigation: notoriety + tentative evidence = damning evidence
-- investigation: notoriety + damning evidence = trial
+hunter searching for clues
+- notoriety = tentative evidence
+- notoriety + tentative evidence = damning evidence
+- notoriety + damning evidence = trial
