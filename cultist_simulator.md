@@ -20,6 +20,7 @@ study
 - reason = erudition
 
 work 
+- reason = junior clerk
 - passion + restlessness = glimmering + passion (exhausted)
 - health = used health + vitality + funds
 
