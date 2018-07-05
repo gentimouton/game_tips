@@ -13,6 +13,7 @@ dream
 
 study 
 - health = health + vitality
+- vitality + vitality = health (works only once)
 
 work 
 - passion + dread = ?
