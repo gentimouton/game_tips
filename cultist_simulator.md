@@ -14,9 +14,11 @@ dream
 study 
 - health = health + vitality
 - vitality + vitality = health (works only once)
+- passion = glimmering
+- reason = erudition
 
 work 
-- passion + dread = ?
+- passion + restlessness = glimmering + passion (exhausted)
 - health = used health + vitality + funds
 
 trembling in the air
@@ -31,3 +33,7 @@ hunter searching for clues
 - notoriety = tentative evidence
 - notoriety + tentative evidence = damning evidence
 - notoriety + damning evidence = trial
+
+explore
+- believer = streets by moonlight
+- streets by moonlight = subtle fracture
