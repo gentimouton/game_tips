@@ -27,6 +27,7 @@ restlessness becomes dread
 talk 
 - hunter = dread + notoriety
 - lore + reason = acquaintance
+- cult + acquaintance + lore = convert to believer
 
 hunter searching for clues
 - notoriety = tentative evidence
