@@ -11,6 +11,7 @@ dream
 - reason = restlessness
 - passion + way = pyramid access
 - fascination + dread = ?
+- health = fleeting memory
 
 study 
 - health = health + vitality
