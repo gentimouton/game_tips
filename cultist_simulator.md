@@ -9,12 +9,14 @@ dream
 - affliction + coin = ?
 - dread + contentment = ?
 - reason = restlessness
+- passion (+ lore) = ?
 
 study 
 - health = health + vitality
 
 work 
 - passion + dread = ?
+- health = used health + vitality + funds
 
 trembling in the air
 - fascination + dread = ?
