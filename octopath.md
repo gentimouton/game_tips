@@ -1,5 +1,7 @@
 
-[Interactive World Map](http://www.octopathtravelmap.com/), has danger levels, job shrines, and dungeon loot.
+Minimap disappeared? Press RB.
+
+[Interactive World Map](http://www.octopathtravelmap.com/) has danger levels, job shrines, and dungeon loot.
 
 Caits are weak/vulnerable to: Sword, Dagger, Axe, Staff. 
 
