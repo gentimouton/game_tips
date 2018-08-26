@@ -8,8 +8,13 @@ Caits are weak/vulnerable to: Sword, Dagger, Axe, Staff.
 [Side quests](http://www.gamersheroes.com/game-guides/octopath-traveler-side-quest-guide/)
 
 Secondary jobs:
+- Characters can use passive skills of any secondary class, not just the one they currently are. 
 - [skill list](https://www.shacknews.com/article/106048/job-classes-attribute-bonuses-and-skills-list---octopath-traveler) and [bonus stats table](https://www.shacknews.com/article/106081/how-to-choose-the-best-secondary-jobs-in-octopath-traveler)
 - Therion: Scholar (Steal SP), Dancer (speed, buff, debuff), Hunter (physical DPS)
 - Oberic: Apothecary (HP tank, heal), Hunter (physical DPS)
 - Primrose: Scholar (only elements missing are Wind and Light), Thief (speed, evasion)
 - Tressa: Anything except Hunter and Warrior (don't dupe weapons)
+- Alfyn: Warrior (HP)
+- Ophilia: Merchant, Scholar
+- Hanit: Warrior, Thief
+- Cyrus: Dancer (SP regen)
