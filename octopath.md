@@ -13,8 +13,8 @@ Secondary jobs:
 - Therion: Scholar (Steal SP), Dancer (speed, buff, debuff), Hunter (physical DPS)
 - Oberic: Apothecary (HP tank, heal), Hunter (physical DPS)
 - Primrose: Scholar (only elements missing are Wind and Light), Thief (speed, evasion)
-- Tressa: Anything except Hunter and Warrior (don't dupe weapons)
+- Tressa: Anything except Hunter and Warrior (don't dupe weapons), Runelord (Transfer Rune of Rune, Rest, or Sidestep)
 - Alfyn: Warrior (HP)
 - Ophilia: Merchant, Scholar
-- Hanit: Warrior, Thief
+- Hanit: Warrior, Thief, Warmaster (Guardian Liondog + Patience, combo with 2x skill Ult from Cleric)
 - Cyrus: Dancer (SP regen)
