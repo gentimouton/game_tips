@@ -18,3 +18,6 @@ Secondary jobs:
 - Ophilia: Merchant, Scholar
 - Hanit: Warrior, Thief, Warmaster (Guardian Liondog + Patience, combo with 2x skill Ult from Cleric)
 - Cyrus: Dancer (SP regen)
+
+Bosses
+- sorcerer shrine: go with 2 clerics, reflect spells
