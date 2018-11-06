@@ -12,6 +12,7 @@ monster hunter stories on iOS
 - paintballs: quest reward for `Clamorous Qurupeco` (slay a qurupeco) or make from `Sap Plant` and `Quickfoot Seed`. Or buy them.
 - causing retreat to den: paintball, defeat while trapped, downed, enraged, or paralyzed. Check monsterpedia. Wear Rathian armor.
 - unlock extra gene slots via stims, obtained in tower of illusion (endgame dungeon). slot beads/jewels made from H crystals.
+- [video tutorial about rare monsters](https://www.youtube.com/watch?v=N5cXrQVOGDo)
 
 Notes
 - qurupeco's soothing song full-heals both
