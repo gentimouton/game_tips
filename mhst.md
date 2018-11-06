@@ -10,7 +10,7 @@ monster hunter stories on iOS
 - [egg patterns](https://www.gameskinny.com/xm3vu/monster-hunter-stories-guide-all-egg-patterns-and-locations)
 - [egg locations](https://i.redd.it/s7jxkyfnvjlz.png)
 - paintballs: quest reward for `Clamorous Qurupeco` (slay a qurupeco) or make from `Sap Plant` and `Quickfoot Seed`
-- causing retreat to den: paintball, defeat while trapped, downed, enraged, or paralyzed.
+- causing retreat to den: paintball, defeat while trapped, downed, enraged, or paralyzed. Check monsterpedia.
 - unlock extra gene slots via stims, obtained in tower of illusion (endgame dungeon). slot beads/jewels made from H crystals.
 
 Notes
